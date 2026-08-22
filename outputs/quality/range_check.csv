@@ -1,0 +1,8 @@
+﻿column,allowed_range,violation_count,observed_min,observed_max
+Global_active_power,"[0, inf]",0,0.124,6.560533333333334
+Global_reactive_power,"[0, inf]",0,0.0,0.7743333333333333
+Voltage,"[200, 260]",0,225.8345,251.902
+Global_intensity,"[0, inf]",0,0.5033333333333333,28.383333333333333
+Sub_metering_1,"[0, inf]",0,0.0,48.36666666666667
+Sub_metering_2,"[0, inf]",0,0.0,46.43333333333333
+Sub_metering_3,"[0, inf]",0,0.0,21.55

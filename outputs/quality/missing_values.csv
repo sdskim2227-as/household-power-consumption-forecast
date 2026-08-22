@@ -1,0 +1,9 @@
+﻿column,non_null_count,null_count,null_pct
+datetime,34211,0,0.0
+Global_active_power,34211,0,0.0
+Global_reactive_power,34211,0,0.0
+Voltage,34211,0,0.0
+Global_intensity,34211,0,0.0
+Sub_metering_1,34211,0,0.0
+Sub_metering_2,34211,0,0.0
+Sub_metering_3,34211,0,0.0

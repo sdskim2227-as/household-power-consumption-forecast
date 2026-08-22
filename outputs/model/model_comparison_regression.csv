@@ -1,0 +1,6 @@
+﻿model,kind,rmse,mae,r2
+선형회귀,model,6.647,5.059,0.5039
+랜덤포레스트,model,6.84,5.08,0.4747
+XGBoost,model,7.003,5.222,0.4493
+persistence 기준선,baseline,8.766,6.424,0.1372
+평균값 기준선,baseline,9.495,7.601,-0.0123
